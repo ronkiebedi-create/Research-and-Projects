@@ -1,5 +1,5 @@
 # Hi, I'm Gurraunak Singh Bedi  
-### MSci Physics (Year 3) • King's College London  
+### MSci Physics (Year 4) • King's College London  
 ### Computational & Theoretical Physics • Quantum Information • Statistical Mechanics
 
 Welcome to my research and project portfolio.  
