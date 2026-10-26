@@ -17,7 +17,7 @@ I work at the intersection of **physics, computation, and mathematical modelling
 
 ## Featured Research & Projects
 
-### **[multi-asset portfolio risk assessment project.ipynb)**
+### **Multi-asset portfolio risk assessment project**
 
 Python research project assessing the trade-off between investment growth, volatility and drawdowns across equities, bonds, gold and commodities. Combines three moving-average horizons with inverse-volatility allocation, residual cash interest and transaction costs based on actual drifted holdings.
 
